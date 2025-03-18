@@ -1,2 +1,2 @@
 # Zuki clicker simulator
- this isnt a joke game anymore
+ born to be a test, force to be a real thing
