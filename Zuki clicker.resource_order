@@ -15,10 +15,14 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sonidos","order":3,"path":"folders/Sonidos.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"zuki","order":1,"path":"folders/Sprites/zuki.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"spr_zuki_idle","order":1,"path":"sprites/spr_zuki_idle/spr_zuki_idle.yy",},
-    {"name":"spr_text","order":3,"path":"sprites/spr_text/spr_text.yy",},
-    {"name":"spr_zuki_mask","order":2,"path":"sprites/spr_zuki_mask/spr_zuki_mask.yy",},
+    {"name":"obj_buttonworker","order":2,"path":"objects/obj_buttonworker/obj_buttonworker.yy",},
+    {"name":"spr_button","order":3,"path":"sprites/spr_button/spr_button.yy",},
+    {"name":"snd_click","order":1,"path":"sounds/snd_click/snd_click.yy",},
+    {"name":"obj_coollogo","order":1,"path":"objects/obj_coollogo/obj_coollogo.yy",},
+    {"name":"Click_a_zuki","order":1,"path":"rooms/Click_a_zuki/Click_a_zuki.yy",},
+    {"name":"logo","order":2,"path":"sprites/logo/logo.yy",},
   ],
 }
