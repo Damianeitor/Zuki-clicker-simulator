@@ -1,5 +1,5 @@
-scale_x = lerp(scale_x, 1, 0.2);
-scale_y = lerp(scale_y, 1, 0.2);
+scale_x = lerp(scale_x, 1, 0.1);
+scale_y = lerp(scale_y, 1, 0.1);
 
 if (mouse_check_button_pressed(mb_left) && position_meeting(mouse_x, mouse_y, id)) {
     audio_play_sound(snd_clicked, 1, false);
